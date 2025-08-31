@@ -95,10 +95,10 @@ function App() {
           <div className="text-center">
             <div className="flex items-center justify-center space-x-2 mb-4">
               <BookOpen className="text-blue-400" size={28} />
-              <h3 className="text-xl font-bold">LibraryFlow</h3>
+              <h3 className="text-xl font-bold">LIBMINE</h3>
             </div>
             <p className="text-gray-400 mb-4">Connecting readers with great books since 2025</p>
-            <p className="text-gray-500 text-sm">© 2025 LibraryFlow. All rights reserved.</p>
+            <p className="text-gray-500 text-sm">© 2025 LIBMINE. All rights reserved.</p>
           </div>
         </div>
       </footer>
