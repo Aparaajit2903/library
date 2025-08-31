@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center space-x-8">
             <div className="flex items-center space-x-2">
               <BookOpen className="text-blue-600" size={32} />
-              <h1 className="text-2xl font-bold text-gray-800">LibraryFlow</h1>
+              <h1 className="text-2xl font-bold text-gray-800">LIBMINE</h1>
             </div>
             
             {user && (
